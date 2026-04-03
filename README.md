@@ -1,9 +1,9 @@
-Hi, Im Sh4ilesh
+Hi, Im Shailesh ✨
 
-Student at VIT Chennai \
-Aspiring software developer\
-Passionate about problem-solving\
-Goal to make my dream app
+Student at VIT Chennai 🏛️\
+Aspiring software developer 💻\
+Passionate about problem-solving ✒️\
+Goal to make my dream app 🚩
 
 
 
