@@ -3,7 +3,8 @@ Hi, Im Shailesh ✨
 Student at VIT Chennai 🏛️\
 Aspiring software developer 💻\
 Passionate about problem-solving ✒️\
-Goal to make my dream app 🚩
+Goal to make my dream app 🚩\
+Working on building innovative projects 
 
 
 
