@@ -4,8 +4,6 @@ Student at VIT C🏛️\
 Aspiring software developer 💻\
 Passionate about problem-solving ✒️\
 Goal to make my dream app 🚩\
-Working on building innovative projects 
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaileshhh) 
